@@ -1,0 +1,56 @@
+﻿<Properties StartupConfiguration="{C97C598F-AA1E-45D7-8B53-15E7EC407094}|Default">
+  <MonoDevelop.Ide.ItemProperties.PartyInvites PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PartyInvites/wwwroot/lib/bootstrap/dist/css/bootstrap.css">
+    <Files>
+      <File FileName="PartyInvites/Controllers/HomeController.cs" Line="81" Column="31" />
+      <File FileName="PartyInvites/Views/Home/HelloWorld.cshtml" Line="10" Column="1" />
+      <File FileName="PartyInvites/Views/Shared/_Layout.cshtml" Line="8" Column="5" />
+      <File FileName="PartyInvites/Views/Home/MyView.cshtml" Line="24" Column="8" />
+      <File FileName="PartyInvites/Models/GuestResponse.cs" Line="6" Column="1" />
+      <File FileName="PartyInvites/Views/Home/RsvpForm.cshtml" Line="20" Column="9" />
+      <File FileName="PartyInvites/Models/FakeDb.cs" Line="16" Column="10" />
+      <File FileName="PartyInvites/Views/Home/Thanks.cshtml" Line="26" Column="6" />
+      <File FileName="PartyInvites/Views/Home/ListResponses.cshtml" Line="9" Column="7" />
+      <File FileName="PartyInvites/wwwroot/css/site.css" Line="1" Column="1" />
+      <File FileName="PartyInvites/wwwroot/css/tableStyles.css" Line="8" Column="2" />
+      <File FileName="PartyInvites/wwwroot/css/errorStyles.css" Line="21" Column="2" />
+      <File FileName="PartyInvites/wwwroot/lib/bootstrap/dist/css/bootstrap.css" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PartyInvites" expanded="True">
+            <Node name="PartyInvites" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+                <Node name="lib" expanded="True">
+                  <Node name="bootstrap" expanded="True">
+                    <Node name="dist" expanded="True">
+                      <Node name="css" expanded="True">
+                        <Node name="bootstrap.css" selected="True" />
+                      </Node>
+                      <Node name="js" expanded="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
